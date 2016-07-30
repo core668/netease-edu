@@ -127,8 +127,8 @@ a,a:hover{color:#333;}
 .g-bd .m-wrap1 .icon2{background: url(../images/spirit.png) no-repeat -80px -83px;}
 .g-bd .m-wrap1 .icon3{background: url(../images/spirit.png) no-repeat -160px -83px;}
 
-.g-bd .g-top .m-workplace{height: 224px;background:#f8f8f8;}
-.g-bd .m-workplace .box{height: 224px;padding-top: 2px;}
+.g-bd .g-top .m-workplace{width:100%;height: 224px;background:#f8f8f8;overflow: hidden;}
+.g-bd .m-workplace .box{height: 224px;padding-top: 2px;margin-left: -160px;}
 .g-bd .m-workplace img{float: left;margin-right: 4px;height: 220px;width: 320px;}
 .g-bd .m-workplace .last{margin-right: 0;}
 
